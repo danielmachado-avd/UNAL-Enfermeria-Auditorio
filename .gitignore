@@ -1,0 +1,8 @@
+# Regla para ignorar todos los archivos, incluyendo sub folders
+*
+
+# Reglas para incluir los archivos deseados
+!.gitignore
+!.md
+!.smw
+!.vtp
